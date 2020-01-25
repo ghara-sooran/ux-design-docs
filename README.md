@@ -2,7 +2,7 @@
 
 Table of Contents
 * [Getting Started](#getting-started)
-* [Resources](#resources)
+* [Design Resources](#design-resources)
 * [Design Artifacts](#design-artifacts)
 * [Project Management](#project-management)
 
@@ -23,7 +23,7 @@ _If you are using the desktop GUI, point the GUI to the above URL._
 
 Congratulations! You have all of the documents setup locally and are now ready to begin editing.
 
-## [Resources](./resources)
+## [Design Resources](./resources)
 The resources folder contains supporting artifacts used during the design process.  Examples of resources used during the design process include:
 * White-board & freehand sketches
 * Inspirational links
@@ -37,5 +37,5 @@ The design artifacts represent the raw outputs from the design process.  These d
 * PNG / SVG / JPEG / etc. image files
 * ...
 
-## [Project Management](/ux-design-docs/projects)
-To faciliate collaboration and manage our projess, we utilize [issues](/ux-design-docs/issues) and [project boards](/ux-design-docs/projects) respectively. Issues should be used to track the progress of individual tasks where projects should be used to track higher level goals.
+## [Project Management](https://github.com/ghara-sooran/ux-design-docs/projects)
+To faciliate collaboration and manage our projess, we utilize [issues](https://github.com/ghara-sooran/ux-design-docs/issues) and [project boards](/ghara-sooran/ux-design-docs/projects) respectively. Issues should be used to track the progress of individual tasks where projects should be used to track higher level goals.
