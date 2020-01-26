@@ -1,8 +1,8 @@
 ## Inspirations
-![](warrior-logo_sketch.jpeg?raw=true)
+![](./images/warrior-logo_sketch.jpeg?raw=true)
 *Freehand Sketch*
 
-![](warrior-logo_cartoon.jpeg?raw=true)
+![](./images/warrior-logo_cartoon.jpeg?raw=true)
 *Cartoonish Character*
 
 ## Discussion
